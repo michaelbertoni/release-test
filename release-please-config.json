@@ -1,10 +1,12 @@
 {
     "packages": {
         "package1": {
-            "release-type": "simple"
+            "release-type": "simple",
+            "skip-github-pull-request": true
         },
         "package2": {
-            "release-type": "simple"
+            "release-type": "simple",
+            "skip-github-pull-request": true
         }
     }
 }
