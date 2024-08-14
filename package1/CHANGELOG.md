@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/michaelbertoni/release-test/compare/package1-v0.3.0...package1-v1.0.0) (2024-08-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* le combo évidemment
+
+### Features
+
+* le combo évidemment ([ea338e1](https://github.com/michaelbertoni/release-test/commit/ea338e132539ef0d7e4f9c6e1206ece18f50fe30))
+
 ## [0.3.0](https://github.com/michaelbertoni/release-test/compare/package1-v0.2.0...package1-v0.3.0) (2024-08-14)
 
 
