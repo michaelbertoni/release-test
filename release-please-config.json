@@ -1,10 +1,12 @@
 {
     "packages": {
         "package1": {
-            "release-type": "simple"
+            "release-type": "simple",
+            "package-name": "package1"
         },
         "package2": {
-            "release-type": "simple"
+            "release-type": "simple",
+            "package-name": "package2"
         }
     }
 }
